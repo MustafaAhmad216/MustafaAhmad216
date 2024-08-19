@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ahmad Saied</h1>
-<h3 align="center">A passionate Full-Stack developer from Egypt</h3>
+<h3 align="center">A passionate Backend Node.Js developer from Egypt</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MustafaAhmad216&label=Profile%20views&color=0e75b6&style=flat" alt="Mustafa Ahmad" /> </p>
@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on PHP and Laravel 9<br><br>🌱 I’m currently learning MERN stack<br><br>👨‍💻 All of my projects are available at https://github.com/MustafaAhmad216<br><br>📫 How to reach me mustafaahmad21666@gmail.com<br><br>⚡ Fun fact loving watching E-sports (League of Legends - Valorant )
+🔭 I’m currently working as a Node.Js developer <br><br>🌱 I’m currently learning MERN stack<br><br>👨‍💻 All of my projects are available at https://github.com/MustafaAhmad216<br><br>📫 How to reach me mustafaahmad21666@gmail.com<br><br>⚡ Fun fact loving watching E-sports (League of Legends - Valorant )
 
 
 ## 🌐 Socials:
