@@ -13,7 +13,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ahmad-412b49234/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ahmad-412b49234/) <br>
 [![ X ](https://img.shields.io/badge/-%231DA1F2.svg?logo=X&logoColor=black)](https://x.com/Tawfik_21) 
 
 # 💻 Tech Stack:
